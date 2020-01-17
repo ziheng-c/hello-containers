@@ -5,7 +5,7 @@ metadata:
 spec:
   params:
     - name: repository
-      description: The git repo
+      description: The git repoo
     - name: apikey
       description: the ibmcloud api key
     - name: registryNamespace
